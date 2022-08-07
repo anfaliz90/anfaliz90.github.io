@@ -1,0 +1,34 @@
+*{
+    /*font-size: 62.5%;*/
+    margin: 0;
+    padding: 0;
+    border:1px solid black;
+}
+
+body{
+    background-color: #131f3d;
+}
+
+#profile_photo{
+    border:5px solid white;
+    width: 30vw;
+}
+
+
+header{
+    display: inline-block;
+    width: 30vw;
+}
+
+#sections{
+    display: inline-block;    
+    height: 100hv;
+}
+
+#Home{
+    display: inline-block;    
+    height: 100hv;
+    width: 65vw;
+    color:white
+}
+
