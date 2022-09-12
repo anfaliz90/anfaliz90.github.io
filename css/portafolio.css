@@ -23,6 +23,7 @@ header{
 #sections{
     display: inline-block;    
     height: 100hv;
+    margin-top: 0;
 }
 
 #Home{
@@ -32,3 +33,22 @@ header{
     color:white
 }
 
+span, p{
+    color:white;
+}
+
+.proy_title{
+    margin:0 auto;
+    text-align: center;
+    color:white;
+}
+
+h4{
+    color:white; 
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration-line: none;
+}
